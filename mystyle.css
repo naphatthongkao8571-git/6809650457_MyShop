@@ -119,6 +119,7 @@ nav {
   text-decoration: none;
   transition: 0.3s;
   font-weight: bold;
+  margin-right: 10px;
 }
 
 .welcome-btn:hover {
